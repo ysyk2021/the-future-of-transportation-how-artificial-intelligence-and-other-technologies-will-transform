@@ -12,7 +12,7 @@ Finally, the third section of the book looks to the future of transportation and
 
 Overall, this book aims to provide readers with a comprehensive understanding of the ways in which AI and other technologies are changing the transportation industry. By exploring the challenges and opportunities associated with these changes, we hope to inspire readers to think creatively about the future of transportation and the role that technology will play in shaping it.
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
 
