@@ -1,5 +1,3 @@
-Logistics and Supply Chain Management
-=========================================================================================================
 
 Artificial intelligence (AI) has the potential to significantly transform the transportation industry, from improving safety to reducing costs. One area where AI is already demonstrating its impact is logistics and supply chain management.
 

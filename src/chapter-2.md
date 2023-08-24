@@ -1,5 +1,3 @@
-Chapter 1: The Current State of Transportation
-==============================================
 
 Transportation is an essential part of modern life, yet it faces a number of challenges including congestion, environmental impact, and unequal access to transportation modes. In this chapter, we will examine the current state of transportation and the challenges it faces.
 

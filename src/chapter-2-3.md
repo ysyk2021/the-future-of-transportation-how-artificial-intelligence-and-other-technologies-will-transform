@@ -1,5 +1,3 @@
-Challenges in Transportation Today
-==================================================================================
 
 Transportation is facing a range of challenges today, from congestion and safety issues to environmental concerns. In this chapter, we will provide an overview of the current state of transportation and the challenges facing the industry.
 

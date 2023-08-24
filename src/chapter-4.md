@@ -1,5 +1,3 @@
-Chapter 3: Other Technologies Shaping the Future of Transportation
-==================================================================
 
 In addition to AI, several other technologies are shaping the future of transportation. In this chapter, we will explore some of these emerging technologies and their potential to transform the way we move.
 

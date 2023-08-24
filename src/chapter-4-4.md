@@ -1,5 +1,3 @@
-Smart Cities and Infrastructure
-===================================================================================================
 
 In addition to hyperloop, high-speed rail, drones, and flying taxis, there are two other technologies that have the potential to revolutionize transportation in the near future: smart cities and infrastructure.
 

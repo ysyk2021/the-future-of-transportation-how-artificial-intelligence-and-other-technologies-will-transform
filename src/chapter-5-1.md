@@ -1,5 +1,3 @@
-Micro-Mobility and Last-Mile Solutions
-===============================================================================
 
 As urban populations continue to grow, the demand for efficient and sustainable transportation options has become increasingly urgent. Two emerging trends in urban mobility are micro-mobility and last-mile solutions.
 

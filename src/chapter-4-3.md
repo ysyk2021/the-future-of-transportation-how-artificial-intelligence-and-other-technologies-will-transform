@@ -1,5 +1,3 @@
-Drones and Flying Taxis
-===========================================================================================
 
 In addition to hyperloop and high-speed rail, there are two other technologies that have the potential to revolutionize transportation in the near future: drones and flying taxis.
 

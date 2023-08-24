@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence in Transportation
-=========================================================================================================================
 
 Artificial intelligence (AI) is transforming the transportation landscape, enabling new capabilities and enhancing existing ones. In this chapter, we will provide an overview of the ways in which AI is currently being used in transportation.
 

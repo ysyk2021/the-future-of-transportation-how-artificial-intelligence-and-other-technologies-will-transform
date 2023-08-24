@@ -1,5 +1,3 @@
-Safety and Security Concerns
-====================================================================================================
 
 As transportation technology continues to evolve, it is important to consider the ethical and social implications of these changes. One key area of concern is safety and security, as new technologies have the potential to impact both positively and negatively on these issues.
 

@@ -1,5 +1,3 @@
-Chapter 5: Environmental Impacts of Transportation
-==================================================
 
 Transportation has a significant impact on the environment, contributing to climate change, air and water pollution, and habitat destruction. In this chapter, we will explore the environmental impacts of transportation and the emerging solutions to address them.
 

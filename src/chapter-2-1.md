@@ -1,5 +1,3 @@
-Transportation Infrastructure
-=============================================================================
 
 Effective transportation infrastructure is critical to the efficient movement of people and goods. From roads and bridges to airports and ports, transportation infrastructure connects communities and facilitates economic development. In this chapter, we will explore the current state of transportation infrastructure and the challenges that it faces.
 

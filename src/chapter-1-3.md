@@ -1,5 +1,3 @@
-The Role of Technology in Transportation
-======================================================
 
 Technology has played a critical role in the evolution of transportation, enabling us to move people and goods across long distances at increasingly faster speeds. From steam engines to electric cars, technology has transformed the way we move and has led to significant advances in our transportation systems.
 

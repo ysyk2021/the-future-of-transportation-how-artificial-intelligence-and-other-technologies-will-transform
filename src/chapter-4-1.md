@@ -1,5 +1,3 @@
-Electric and Hybrid Vehicles
-================================================================================================
 
 Transportation is a significant contributor to carbon emissions and climate change, making the transition to more sustainable modes of transportation critical. Electric and hybrid vehicles are an important part of this transition, offering a cleaner and more efficient alternative to traditional gasoline-powered cars.
 

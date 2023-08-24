@@ -1,5 +1,3 @@
-Personalized Transportation and On-Demand Services
-===========================================================================================
 
 As urban populations continue to grow, the demand for efficient and convenient transportation options has become increasingly urgent. Two emerging trends in urban mobility are personalized transportation and on-demand services.
 

@@ -1,5 +1,3 @@
-Climate Change and Carbon Emissions
-=======================================================================================
 
 Transportation is a significant contributor to climate change, accounting for approximately 14 percent of global carbon emissions. As transportation technology continues to advance, it is critical that we consider the environmental impacts of these innovations.
 

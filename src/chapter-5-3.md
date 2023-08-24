@@ -1,5 +1,3 @@
-Public Transportation and Mass Transit
-===============================================================================
 
 As urban populations continue to grow, finding efficient and sustainable modes of transportation becomes increasingly important. Public transportation and mass transit systems are essential components of urban mobility, providing an alternative to individual car use and reducing traffic congestion and air pollution.
 

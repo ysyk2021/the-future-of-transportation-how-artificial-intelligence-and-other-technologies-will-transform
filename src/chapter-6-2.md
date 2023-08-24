@@ -1,5 +1,3 @@
-Sustainable and Renewable Energy Sources
-============================================================================================
 
 Transportation is a significant contributor to greenhouse gas emissions, which have a harmful impact on the environment. As we look to the future of transportation, it is essential to consider the environmental impacts of our transportation choices. In this chapter, we will explore sustainable and renewable energy sources that can reduce the environmental impact of transportation.
 

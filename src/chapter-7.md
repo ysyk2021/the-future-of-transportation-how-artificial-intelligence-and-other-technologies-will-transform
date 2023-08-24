@@ -1,5 +1,3 @@
-Chapter 6: Ethics and Social Implications of Transportation Technology
-======================================================================
 
 While transportation technology has the potential to greatly improve our lives, it also poses ethical and social challenges that must be addressed. In this chapter, we will explore some of the ethical and social implications of transportation technology.
 

@@ -1,5 +1,3 @@
-Privacy and Data Protection
-===================================================================================================
 
 The rise of new transportation technologies, such as autonomous vehicles and ride-sharing platforms, raises important ethical and social considerations related to privacy and data protection. As these technologies collect vast amounts of data about users' movements and behaviors, it is critical that we ensure this data is used in responsible and ethical ways.
 

@@ -1,5 +1,3 @@
-The Evolution of Transportation
-=============================================
 
 Transportation has transformed the way we live and work, enabling us to move people and goods across long distances and connecting communities around the world. From the wheel and the sail to the automobile and the airplane, transportation technology has evolved over thousands of years.
 

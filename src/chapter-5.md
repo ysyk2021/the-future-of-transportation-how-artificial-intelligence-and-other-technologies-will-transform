@@ -1,5 +1,3 @@
-Chapter 4: The Future of Urban Mobility
-=======================================
 
 As urbanization continues to increase around the world, the demand for more efficient and sustainable transportation solutions in cities is becoming more pressing. In this chapter, we will explore the future of urban mobility, particularly the emerging trends and technologies that are transforming the way people move in urban areas.
 

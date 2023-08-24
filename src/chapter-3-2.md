@@ -1,5 +1,3 @@
-Autonomous Vehicles
-=======================================================================================
 
 Artificial intelligence (AI) is transforming the transportation industry in many ways, and one of the most promising areas of development is autonomous vehicles. In this chapter, we will explore the impact that AI is having on the development of autonomous vehicles and their potential to transform the way we move.
 

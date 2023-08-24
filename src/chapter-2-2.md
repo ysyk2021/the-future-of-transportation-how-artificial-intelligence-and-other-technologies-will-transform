@@ -1,5 +1,3 @@
-Traditional Modes of Transportation
-===================================================================================
 
 Transportation plays a critical role in our daily lives, enabling us to move people and goods across long distances. From cars and trucks to trains and airplanes, traditional modes of transportation have been the backbone of our transportation system for many years. In this chapter, we will explore the current state of traditional modes of transportation and their limitations.
 

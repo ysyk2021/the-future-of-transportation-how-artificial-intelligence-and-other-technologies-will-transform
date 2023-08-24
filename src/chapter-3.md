@@ -1,5 +1,3 @@
-Chapter 2: The Impact of Artificial Intelligence on Transportation
-==================================================================
 
 Artificial intelligence (AI) is already transforming the transportation industry in significant ways, from autonomous vehicles to advanced traffic management systems. In this chapter, we will explore the impact of AI on transportation.
 

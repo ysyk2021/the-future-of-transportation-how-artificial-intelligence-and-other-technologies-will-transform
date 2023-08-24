@@ -1,5 +1,3 @@
-Access and Equity Issues
-================================================================================================
 
 As transportation technology continues to advance, it is important to consider the ethical and social implications of these innovations. One key area of concern is the potential for transportation technology to exacerbate existing inequalities in access to transportation.
 

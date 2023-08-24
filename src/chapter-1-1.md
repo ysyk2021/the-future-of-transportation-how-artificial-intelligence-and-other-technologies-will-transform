@@ -1,5 +1,3 @@
-The Foundation of Transportation
-==============================================
 
 Transportation has been an essential human activity for thousands of years. From the earliest forms of transportation, such as walking and using animals to transport goods, to modern transportation systems including cars, trains, ships, and airplanes, transportation has connected people, places and economies.
 

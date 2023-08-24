@@ -1,5 +1,3 @@
-Traffic Management
-======================================================================================
 
 Artificial intelligence (AI) is revolutionizing the way we manage traffic, from reducing congestion to improving safety. In this chapter, we will explore the impact that AI is having on traffic management and the potential for these technologies to transform the way we move.
 

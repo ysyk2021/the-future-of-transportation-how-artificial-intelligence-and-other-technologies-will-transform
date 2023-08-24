@@ -1,5 +1,3 @@
-Hyperloop and High-Speed Rail
-=================================================================================================
 
 While artificial intelligence is certainly a driving force behind the future of transportation, there are other technologies that will have a significant impact on how we move people and goods across cities, countries, and even entire continents. Two of these technological advancements are hyperloop and high-speed rail.
 
