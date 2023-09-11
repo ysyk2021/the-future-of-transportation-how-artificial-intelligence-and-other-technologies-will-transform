@@ -1,5 +1,4 @@
-Chapter 7: Micro-Mobility and Last-Mile Solutions
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the evolving landscape of micro-mobility and last-mile solutions in the context of the future of transportation, where artificial intelligence (AI) and advanced technologies are driving transformative changes. These innovative approaches aim to address the challenges of short-distance travel within urban environments and improve the overall efficiency and sustainability of transportation systems.
 

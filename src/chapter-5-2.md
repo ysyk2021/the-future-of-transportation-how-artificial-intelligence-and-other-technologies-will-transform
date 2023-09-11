@@ -1,5 +1,4 @@
-Chapter 6: Ride-Sharing and the Sharing Economy
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the profound impact of artificial intelligence (AI) and emerging technologies on the realm of ride-sharing and the broader sharing economy. The convergence of AI, mobile apps, and innovative business models has revolutionized the way people access transportation services and utilize underutilized resources.
 

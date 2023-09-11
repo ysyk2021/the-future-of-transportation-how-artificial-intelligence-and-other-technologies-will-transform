@@ -1,5 +1,4 @@
-Chapter 2: Smart Cities and Infrastructure
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the pivotal role of smart cities and advanced infrastructure in shaping the future of transportation. As we delve into the intersection of artificial intelligence and urban development, we'll uncover how these innovations are revolutionizing the way we move and live in urban environments.
 

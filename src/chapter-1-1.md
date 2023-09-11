@@ -1,5 +1,4 @@
-Chapter 1: The Foundation of Transportation
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this opening chapter, we will explore the fundamental principles and historical context that underpin the future of transportation. To grasp the full scope of how artificial intelligence (AI) and advanced technologies are transforming the way we move, it's crucial to first establish a solid foundation rooted in the history, challenges, and core concepts of transportation.
 

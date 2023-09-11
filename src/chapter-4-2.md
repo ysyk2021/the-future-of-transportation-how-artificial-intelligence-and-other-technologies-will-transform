@@ -1,5 +1,4 @@
-Chapter 6: Hyperloop and High-Speed Rail
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The world of transportation is on the brink of a high-speed revolution, driven by innovative technologies that promise to transform the way we move people and goods. In this chapter, we delve into the exciting developments surrounding Hyperloop and high-speed rail systems and their potential to reshape the future of transportation.
 

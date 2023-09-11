@@ -1,5 +1,4 @@
-Chapter 8: Logistics and Supply Chain Management
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how artificial intelligence (AI) and advanced technologies are revolutionizing logistics and supply chain management, reshaping the movement of goods and materials on a global scale. From optimized route planning to predictive maintenance, AI is playing a pivotal role in enhancing efficiency, reducing costs, and ensuring the timely delivery of products.
 

@@ -1,5 +1,4 @@
-Chapter 10: Access and Equity Issues
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will examine the critical issues of access and equity in the context of the future of transportation, where artificial intelligence (AI) and advanced technologies are reshaping the way we move. While these innovations offer exciting possibilities, it's essential to ensure that they benefit all members of society and do not exacerbate existing disparities.
 

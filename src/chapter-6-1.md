@@ -1,5 +1,4 @@
-Chapter 6: Climate Change and Carbon Emissions
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the pursuit of redefining transportation for the future, addressing climate change and reducing carbon emissions is paramount. In this chapter, we will explore the critical relationship between transportation, climate change, and the role of technology, including artificial intelligence (AI), in mitigating the environmental impact of transportation systems.
 

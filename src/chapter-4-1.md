@@ -1,5 +1,4 @@
-Chapter 5: Electric and Hybrid Vehicles
-=======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the ever-evolving landscape of transportation, electric and hybrid vehicles have emerged as transformative technologies with the potential to reshape the way we move. In this chapter, we will explore the significant impact of electric and hybrid vehicles on the future of transportation and how artificial intelligence (AI) plays a crucial role in their development and integration.
 

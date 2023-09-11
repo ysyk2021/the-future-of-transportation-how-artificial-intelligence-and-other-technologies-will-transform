@@ -1,5 +1,4 @@
-Chapter 1: Traditional Modes of Transportation
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the historical and foundational modes of transportation that have shaped the way we move from one place to another. These traditional modes of transportation have played a vital role in human civilization and continue to coexist with the ever-evolving landscape of modern transportation technologies.
 

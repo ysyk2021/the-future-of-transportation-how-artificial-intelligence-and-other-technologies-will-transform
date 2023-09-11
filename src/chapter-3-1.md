@@ -1,5 +1,4 @@
-Chapter 2: Overview of Artificial Intelligence in Transportation
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an in-depth overview of how artificial intelligence (AI) is revolutionizing the transportation sector, shaping the future of mobility in ways that were once unimaginable.
 

@@ -1,5 +1,4 @@
-Chapter 7: Safety and Security Concerns
-=======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As we navigate the transformative landscape of transportation driven by artificial intelligence (AI) and cutting-edge technologies, it is essential to address the critical issues of safety and security. While these innovations hold tremendous promise, they also introduce new challenges and vulnerabilities that must be carefully managed.
 
